@@ -1,11 +1,4 @@
 
-MIME-Version: 1.0
-Date: Thu, 4 Dec 2025 19:56:59 -0800
-Message-ID: <CAGo99WFXtv0oKusXhfRf757FFGm-Erz5Lg6_deO_LCjhoAwOmw@mail.gmail.com>
-Subject: Grc markdown code
-From: Maxim Barbin <maximbarbin38@gmail.com>
-To: Maxim Barbin <maximbarbin38@gmail.com>
-Content-Type: multipart/alternative; boundary="000000000000fcee4506452c6f9f"
 
 --000000000000fcee4506452c6f9f
 Content-Type: text/plain; charset="UTF-8"
